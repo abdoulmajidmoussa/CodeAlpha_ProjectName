@@ -101,6 +101,6 @@ This presentation is created **strictly for educational and awareness purposes**
 
 ## 👤 Author
 
-**Moussa Boubacar Abdoul Majid**  
+**Moussa B. A.Majid**  
 CodeAlpha Cybersecurity Internship — May/June 2026  
 
