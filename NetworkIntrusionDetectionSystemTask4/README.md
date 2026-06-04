@@ -121,6 +121,6 @@ Unauthorized network monitoring may be illegal in your jurisdiction.
 
 ## 👤 Author
 
-**Moussa Boubacar Abdoul Majid**  
+**Moussa B. A.Majid**  
 CodeAlpha Cybersecurity Internship — May/June 2026  
 
